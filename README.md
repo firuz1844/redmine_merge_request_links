@@ -42,6 +42,7 @@ One of the following environment variables need to be set:
 
 * `REDMINE_MERGE_REQUEST_LINKS_GITLAB_WEBHOOK_TOKEN`
 * `REDMINE_MERGE_REQUEST_LINKS_GITHUB_WEBHOOK_TOKEN`
+* `REDMINE_MERGE_REQUEST_LINKS_GITEA_WEBHOOK_TOKEN`
 
 If you use systemd set appropriate environment variable:
 
